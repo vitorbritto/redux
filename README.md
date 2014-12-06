@@ -10,13 +10,14 @@ A NodeJS module to easily manipulate DOM and JavaScript in many ways.
 
 ## API
 
-- Animation
-- Attributes
-- Events
-- Filters
+- Attribute
+- Element
+- Event
+- Filter
 - Manipulation
 - Position
 - Request
-- Styles
+- Style
+- Template
 - Traversal
 - Utils
