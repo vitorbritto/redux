@@ -1,0 +1,21 @@
+{
+  "name": "redux",
+  "version": "0.1.0",
+  "description": "A NodeJS module to easily manipulate DOM and JavaScript in many ways.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://vitorbritto@github.com/vitorbritto/redux.git"
+  },
+  "keywords": [
+    "library",
+    "vanilla js",
+    "abstraction"
+  ],
+  "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbritto/redux/issues"
+  },
+  "homepage": "https://github.com/vitorbritto/redux"
+}
